@@ -1,4 +1,4 @@
 help_rus_gms
 ============
 
-Русская справка по Game Maker Studio рррр
+Перевод справки на русский язык по Game Maker Studio 1.3
